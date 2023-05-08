@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ImPrithibi
+- 👋 Hi, I’m Prithibi
 - 👀 I’m interested in SWE
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects
