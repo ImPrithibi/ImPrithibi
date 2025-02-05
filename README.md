@@ -1,6 +1,6 @@
 # Hi there, I'm Prithibi Paul! 👋
 
-![Profile Banner](https://github.com/imPrithibi//github-header-image.png)
+![Profile Banner](https://github.com/ImPrithibi/ImPrithibi/blob/main/github-header-image.png)
 
 ## 🚀 About Me
 I'm a **Computer Science** student at *City University of New York, Queens College*, passionate about **Software Engineering, AI, and Distributed Systems**. I love building scalable solutions and mentoring others in problem-solving!
