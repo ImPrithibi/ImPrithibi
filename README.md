@@ -11,11 +11,11 @@ I'm a **Computer Science** student at *City University of New York, Queens Colle
 - **Concepts:** Algorithms, Optimization, Agile Development, Scalability  
 
 ## 📌 Featured Projects
-### 🚀 [Hack Harvard – AI-Driven Game](https://github.com/imPrithibi/hackharvard-game)
+### 🚀 [Hack Harvard – AI-Driven Game](https://github.com/ImPrithibi/HackHarvard)
 - Designed a **scalable backend** handling **10k+ concurrent users** using MySQL & JavaScript.
 - Integrated **OpenAI APIs** for dynamic gameplay, reducing **server latency by 25%**.
 
-### 🎓 [MyQC Grades – Grade Tracker](https://github.com/imPrithibi/myqc-grades)
+### 🎓 [MyQC Grades – Grade Tracker](https://github.com/ImPrithibi/CS320GradeCalculator)
 - Built a **Python/Flask app** for **500+ students** to automate grade tracking.
 - Reduced **manual errors by 90%** using optimized SQL queries.
 
